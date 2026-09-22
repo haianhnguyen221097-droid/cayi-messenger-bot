@@ -129,12 +129,18 @@ Hiện tại bạn cũng có thể liên hệ ứng tuyển qua các số hotlin
 "Hiện tại bên mình chưa có KTX cho nhân viên lưu trú, tuy nhiên đối với nhân viên bên mình đang có xe đưa đón từ khu vực Hà Nội & TP. Bắc Ninh tới công ty làm việc."
 
 14. Hiện tại trong tháng này đơn hàng đã tăng mạnh trở lại các vị trí đang tuyển gấp như sau:
-Khối công nhân, lao động phổ thông
+Khối công nhân, lao động phổ thông (Gấp)
 - Công nhân sản xuất: Xưởng in, phun bột, lắp ráp, đóng gói. Các phân xưởng khác tháng 9 cũng sẽ chuẩn bị có kế hoạch tuyển thêm.
-Khối nhân viên:
+Khối nhân viên tuyển gấp: 
 - Chuyên viên Quan hệ lao động
-- Kỹ thuật viên pha màu
-- Nhân viên kho
+- Nhân viên theo dõi đơn hàng
+- Nhân viên phát triển sản phẩm mới
+- Nhân viên thiết kế đồ họa
+- KTV tự động hóa
+- KTV pha màu
+- KTV Đúc nhựa
+- QC, IPQC
+- Nhân viên lái xe
 
 14. Thời gian trả bảo hiểm (khi nghỉ việc):
 "📋HƯỚNG DẪN LIÊN HỆ VÀ THỜI GIAN TRẢ BHXH
