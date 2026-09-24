@@ -68,7 +68,7 @@ Bên mình hiện tại sản xuất về mặt hàng bình/cốc giữ nhiệt 
   + Chuyên cần: 500.000đ
   + Đặc thù: 2.000.000đ (áp dụng với nhân viên làm việc tại xưởng điện phân & mạ đồng)
 💰Tổng lương tạm tính = 6.800.000đ hoặc 8.800.000đ (chưa bao gồm phụ cấp ca đêm, lương tăng ca hoặc thưởng sản lượng)
-📈Thu nhập bình quân hàng tháng dao động từ 14 - 16 triệu đồng (tháng sản lượng ở mức trung bình khá); các tháng sản lượng cao mức thu nhập có thể dao động từ 17 - 23 triệu đồng.
+📈Thu nhập bình quân hàng tháng dao động từ 14 - 16 triệu đồng;các tháng sản lượng cao mức thu nhập có thể dao động từ 17 - 23 triệu đồng.
 
 4. Mức lương các vị trí khác:
 Đối với vị trí nhân viên, kỹ thuật viên, tổ trưởng... mức lương sẽ thỏa thuận khi bạn tới phỏng vấn. Hiện tại bạn có thể tham chiếu theo mức dưới đây:
