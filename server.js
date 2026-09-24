@@ -102,6 +102,7 @@ Lịch đổi ca các phân xưởng thường sẽ là 2 tuần/lần, có mộ
 8. Hẹn phỏng vấn:
 Hiện tại công ty vẫn đang nhận hồ sơ phỏng vấn:
 🗓️Buổi sáng: 8h30 - 11h
+🗓️Buổi chiều: 14h - 16h
 ✅Khi đi phỏng vấn vui lòng mang theo bút, CCCD, hồ sơ (nếu có), có mặt ở cổng A2 để đăng ký.
 📞Liên hệ hotline: 0338840864 để được hỗ trợ.
 Cảm ơn bạn
