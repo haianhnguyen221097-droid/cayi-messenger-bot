@@ -130,7 +130,7 @@ Hiện tại bạn cũng có thể liên hệ ứng tuyển qua các số hotlin
 
 14. Hiện tại trong tháng này đơn hàng đã tăng mạnh trở lại các vị trí đang tuyển gấp như sau:
 Khối công nhân, lao động phổ thông (Gấp)
-- Công nhân sản xuất: Xưởng in, phun bột, lắp ráp, đóng gói. Các phân xưởng khác tháng 9 cũng sẽ chuẩn bị có kế hoạch tuyển thêm.
+- Công nhân sản xuất: Hiện tại thời điểm này kế hoạch chỉ có xưởng đánh bóng đang cần bổ sung thêm nhân sự. Các phân xưởng khác mình sẽ cập nhật sớm khi có thông báo chính thức. 
 Khối nhân viên tuyển gấp: 
 - Chuyên viên Quan hệ lao động
 - Nhân viên theo dõi đơn hàng
