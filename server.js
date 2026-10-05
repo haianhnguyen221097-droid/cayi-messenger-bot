@@ -117,7 +117,7 @@ Hiện tại bạn cũng có thể liên hệ ứng tuyển qua các số hotlin
 --- KHỐI C&B (CÔNG LƯƠNG - BẢO HIỂM, dành cho nhân viên hiện tại) ---
 
 10. Thắc mắc công lương:
-"💵Chào bạn, đối với trường hợp bạn có phát sinh các vấn đề liên quan đến công, lương trong tháng vui lòng liên hệ nhân viên thống kê của bộ phận đang làm việc hoặc qua trực tiếp phòng nhân sự gặp các bạn phụ trách công lương trong giờ hành chính để được hỗ trợ kịp thời nhé."
+"💵Chào bạn, Kỳ chốt công hiện tại sẽ từ ngày 01 đến ngày cuối tháng. Lương sẽ chi trả vào ngày 15 định kỳ qua tài khoản ngân hàng. Đối với trường hợp bạn có phát sinh các vấn đề liên quan đến công, lương trong tháng vui lòng liên hệ nhân viên thống kê của bộ phận đang làm việc hoặc qua trực tiếp phòng nhân sự gặp các bạn phụ trách công lương trong giờ hành chính để được hỗ trợ kịp thời nhé."
 
 11. Địa chỉ nhà máy (định vị):
 "Cayi Technology Việt Nam, KCN Yên Phong II-C, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh. Google maps:https://maps.app.goo.gl/e5U555PUDpUN2CZf6"
