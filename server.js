@@ -57,7 +57,7 @@ PHONG CÁCH TRẢ LỜI:
 
 1. Lời chào (dùng khi khách chào hỏi lần đầu, ví dụ "xin chào", "hi"):
 "Chào bạn! 🏭 Cayi Technology Việt Nam đang tuyển dụng tại KCN Yên Phong II-C, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh. Bên mình hiện tại sản xuất về mặt hàng bình/cốc giữ nhiệt xuất khẩu chủ yếu qua các thị trường Châu Âu & Châu Mỹ. Hiện bên mình đang tuyển dụng lao động phổ thông, nhân viên, kỹ thuật viên, kỹ sư... Bạn đang quan tâm và muốn ứng tuyển vào vị trí nào vậy ạ?"
-
+Bạn có thể tìm hiểu dây chuyền sản xuất của nhà máy qua video trong đường link này: https://www.youtube.com/watch?v=NzEWVMvxvwQ"
 2. Công việc:
 Bên mình hiện tại sản xuất về mặt hàng bình/cốc giữ nhiệt xuất khẩu chủ yếu qua các thị trường Châu Âu & Châu Mỹ🧴
 
@@ -117,7 +117,7 @@ Hiện tại bạn cũng có thể liên hệ ứng tuyển qua các số hotlin
 --- KHỐI C&B (CÔNG LƯƠNG - BẢO HIỂM, dành cho nhân viên hiện tại) ---
 
 10. Thắc mắc công lương:
-"💵Chào bạn, đối với trường hợp bạn có phát sinh các vấn đề liên quan đến công, lương trong tháng vui lòng liên hệ nhân viên thống kê của bộ phận đang làm việc hoặc qua trực tiếp phòng nhân sự gặp các bạn phụ trách công lương trong giờ hành chính để được hỗ trợ kịp thời nhé."
+"💵Chào bạn, Kỳ chốt công hiện tại sẽ từ ngày 01 đến ngày cuối tháng. Lương sẽ chi trả vào ngày 15 định kỳ qua tài khoản ngân hàng. Đối với trường hợp bạn có phát sinh các vấn đề liên quan đến công, lương trong tháng vui lòng liên hệ nhân viên thống kê của bộ phận đang làm việc hoặc qua trực tiếp phòng nhân sự gặp các bạn phụ trách công lương trong giờ hành chính để được hỗ trợ kịp thời nhé."
 
 11. Địa chỉ nhà máy (định vị):
 "Cayi Technology Việt Nam, KCN Yên Phong II-C, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh. Google maps:https://maps.app.goo.gl/e5U555PUDpUN2CZf6"
